@@ -1,0 +1,25 @@
+Title: "Using Data Mining to Predict Secondary School Student Performance"
+Year: 2005-2006
+
+Read abstract
+  What is student failure rates?
+    Portugal high in failure rates, and lack of success in Math and Portuguese
+  BI & DM -> offers a way to extract high level information that can aid education
+  Why secondary education?
+  Data -> school reports and questionnaires
+    Student grades
+    demographic
+    social
+    school
+  Task
+    Classification
+      Binary
+      5 multicategorical
+    Regression
+  Model
+    Decision tree
+    Random forest
+    Neural network
+    SVM
+  
+    
